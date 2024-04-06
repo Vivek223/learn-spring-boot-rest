@@ -1,0 +1,1 @@
+The purpose of this repo is to create examples for learning Spring Boot Rest features.
